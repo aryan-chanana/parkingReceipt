@@ -79,5 +79,7 @@ gcc main.c -o parking.exe
 This project is open-sourced under the MIT License.
 
 ## 👤 Author
+```
 Developed by Aryan Chanana
 Inspired by the need for a simple offline vehicle parking log system.
+```
